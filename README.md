@@ -1,6 +1,6 @@
 <div align="center">
 
-## I am on linux now and i will not be duel booting so all roblox related thins are no longer going to be updated
+## I am on linux now and i will not be duel booting so all roblox related things are no longer going to be updated
 
 # Harvest
 
