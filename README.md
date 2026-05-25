@@ -1,5 +1,7 @@
 <div align="center">
 
+## I am on linux now and i will not be duel booting so all roblox related thins are no longer going to be updated
+
 # Harvest
 
 Harvest extracts scripts and remotes from a game and saves them to your workspace in a Windows compatible format.
@@ -33,3 +35,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/darlinglasting/Harves
 [![Discord](https://img.shields.io/badge/Discord-Message%20Me-5865F2?logo=discord&logoColor=white)](https://discord.com/users/1482172794828619896)  [![Telegram](https://img.shields.io/badge/Telegram-Message%20Me-26A5E4?logo=telegram&logoColor=white)](https://t.me/darlingsgettingedred)
 
 </div>
+
