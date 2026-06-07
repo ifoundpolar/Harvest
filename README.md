@@ -1,7 +1,5 @@
 <div align="center">
 
-## I am on linux now and i will not be duel booting so all roblox related things are no longer going to be updated
-
 # Harvest
 
 Harvest extracts scripts and remotes from a game and saves them to your workspace in a Windows compatible format.
